@@ -1,0 +1,6 @@
+C:\Users\shifatullah\Google Drive\Projects\GitHub\RoslynPS\RoslynPS\SampleDotNetConsoleApp\bin\Debug\SampleDotNetConsoleApp.exe.config
+C:\Users\shifatullah\Google Drive\Projects\GitHub\RoslynPS\RoslynPS\SampleDotNetConsoleApp\bin\Debug\SampleDotNetConsoleApp.exe
+C:\Users\shifatullah\Google Drive\Projects\GitHub\RoslynPS\RoslynPS\SampleDotNetConsoleApp\bin\Debug\SampleDotNetConsoleApp.pdb
+C:\Users\shifatullah\Google Drive\Projects\GitHub\RoslynPS\RoslynPS\SampleDotNetConsoleApp\obj\Debug\SampleDotNetConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\shifatullah\Google Drive\Projects\GitHub\RoslynPS\RoslynPS\SampleDotNetConsoleApp\obj\Debug\SampleDotNetConsoleApp.exe
+C:\Users\shifatullah\Google Drive\Projects\GitHub\RoslynPS\RoslynPS\SampleDotNetConsoleApp\obj\Debug\SampleDotNetConsoleApp.pdb
